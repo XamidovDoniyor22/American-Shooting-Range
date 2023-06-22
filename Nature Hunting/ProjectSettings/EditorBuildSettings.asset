@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: fe33e185c1320ef458b7af40f6d4c539
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 70c33c24a5fe5d347ae610593a03bb26
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SecondLevel.unity
+    guid: bc77f228deb694340b9fafd18e301c99
+  - enabled: 1
+    path: Assets/Scenes/ThirdLevel.unity
+    guid: e542295bb07eaec4284295aca4738fd4
+  - enabled: 1
+    path: Assets/Scenes/ForthLevel.unity
+    guid: 7010d47e6a93d7041ba4216102f677bc
+  - enabled: 1
+    path: Assets/Scenes/FifthLevel.unity
+    guid: 87f986ecbd453104b9adf6cc2076483b
+  - enabled: 1
+    path: Assets/Scenes/SixthLevel.unity
+    guid: 5545b6ac038e9ea4db38dfdef354a836
+  - enabled: 1
+    path: Assets/Scenes/FreeShooting.unity
+    guid: 857c5af278ad3ce4ca484c48ebf49653
+  m_configObjects: {}
